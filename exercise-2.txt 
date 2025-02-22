@@ -1,0 +1,4 @@
+git commit --amend: edit a latest commited comment
+ git commit --amend -m”<message>” edit a commited comment with specific msg
+git restore --staged <file>: move from staging to working directory
+git reset HEAD~1: move from Repo to working directory

@@ -1,0 +1,4 @@
+git init: khởi tạo git
+git add <file_name>: add 1 file into staging area
+git add .: add all files into staging area
+git commit -m “message”
